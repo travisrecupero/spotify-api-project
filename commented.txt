@@ -1,0 +1,8 @@
+HOW TO GET THE YEAR OF THE SONG USING REGEX
+    #allow year 1900-2099
+    print("Enter a year: ")
+    year = input("Enter a year: ")
+    if re.match(r"^(19|20)\d{2}$", year):
+        cp.create_playlist()
+    else:
+        print("Not a valid year.")

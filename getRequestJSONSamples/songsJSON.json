@@ -1,0 +1,1632 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=abba&type=track&market=US&offset=0&limit=20",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+              },
+              "href": "https://api.spotify.com/v1/artists/6cbdCv0bmLwcxSVFM7tuyG",
+              "id": "6cbdCv0bmLwcxSVFM7tuyG",
+              "name": "John Mark Pantana",
+              "type": "artist",
+              "uri": "spotify:artist:6cbdCv0bmLwcxSVFM7tuyG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM"
+          },
+          "href": "https://api.spotify.com/v1/albums/18j2N1p5fuk0yCFmfV0JmM",
+          "id": "18j2N1p5fuk0yCFmfV0JmM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738fa60e4a773decf4e0567cda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028fa60e4a773decf4e0567cda",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518fa60e4a773decf4e0567cda",
+              "width": 64
+            }
+          ],
+          "name": "Love Secrets",
+          "release_date": "2019-08-09",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:18j2N1p5fuk0yCFmfV0JmM"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+            },
+            "href": "https://api.spotify.com/v1/artists/6cbdCv0bmLwcxSVFM7tuyG",
+            "id": "6cbdCv0bmLwcxSVFM7tuyG",
+            "name": "John Mark Pantana",
+            "type": "artist",
+            "uri": "spotify:artist:6cbdCv0bmLwcxSVFM7tuyG"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 222880,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZFYY1930759"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VoL4G7Tt9XQXMK6B8BCfg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VoL4G7Tt9XQXMK6B8BCfg",
+        "id": "6VoL4G7Tt9XQXMK6B8BCfg",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/e126472395fbcb937b6b75dfa0aee60a0ca1ac83?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6VoL4G7Tt9XQXMK6B8BCfg"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+          },
+          "href": "https://api.spotify.com/v1/albums/1V6a99EbTTIegOhWoPxYI9",
+          "id": "1V6a99EbTTIegOhWoPxYI9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0",
+              "width": 64
+            }
+          ],
+          "name": "Arrival",
+          "release_date": "1976",
+          "release_date_precision": "year",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1V6a99EbTTIegOhWoPxYI9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 230400,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GjEhVFGZW8afUYGChu3Rr",
+        "id": "0GjEhVFGZW8afUYGChu3Rr",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dancing Queen",
+        "popularity": 79,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0GjEhVFGZW8afUYGChu3Rr"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0zdZSyxWaYmaRMPeUHcG1K"
+          },
+          "href": "https://api.spotify.com/v1/albums/0zdZSyxWaYmaRMPeUHcG1K",
+          "id": "0zdZSyxWaYmaRMPeUHcG1K",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e47ce0362dd11917fb8307f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e47ce0362dd11917fb8307f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e47ce0362dd11917fb8307f1",
+              "width": 64
+            }
+          ],
+          "name": "Voulez-Vous",
+          "release_date": "1979",
+          "release_date_precision": "year",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:0zdZSyxWaYmaRMPeUHcG1K"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 292571,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7901120"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PzCOP5Aj9SABiBgNEZ52G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PzCOP5Aj9SABiBgNEZ52G",
+        "id": "2PzCOP5Aj9SABiBgNEZ52G",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2PzCOP5Aj9SABiBgNEZ52G"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+              },
+              "href": "https://api.spotify.com/v1/artists/7vKyyJZVFb16NTWrUV1fGp",
+              "id": "7vKyyJZVFb16NTWrUV1fGp",
+              "name": "Jonathan David Helser",
+              "type": "artist",
+              "uri": "spotify:artist:7vKyyJZVFb16NTWrUV1fGp"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+              },
+              "href": "https://api.spotify.com/v1/artists/0cng44S55pPu1nDrtFFy7r",
+              "id": "0cng44S55pPu1nDrtFFy7r",
+              "name": "Melissa Helser",
+              "type": "artist",
+              "uri": "spotify:artist:0cng44S55pPu1nDrtFFy7r"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
+          },
+          "href": "https://api.spotify.com/v1/albums/3YUPMhS86C2T5jAVoOF1qQ",
+          "id": "3YUPMhS86C2T5jAVoOF1qQ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c8ad9e7b9753a8f0058daf6b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c8ad9e7b9753a8f0058daf6b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c8ad9e7b9753a8f0058daf6b",
+              "width": 64
+            }
+          ],
+          "name": "On the Shores",
+          "release_date": "2014-11-24",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:3YUPMhS86C2T5jAVoOF1qQ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vKyyJZVFb16NTWrUV1fGp",
+            "id": "7vKyyJZVFb16NTWrUV1fGp",
+            "name": "Jonathan David Helser",
+            "type": "artist",
+            "uri": "spotify:artist:7vKyyJZVFb16NTWrUV1fGp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 244520,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCABD1250199"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5x1nPSw6zxDcxAZNrCF1Id",
+        "id": "5x1nPSw6zxDcxAZNrCF1Id",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/f7b6b11d14d4dfea03c1957e1d69bd751e2e74d4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5x1nPSw6zxDcxAZNrCF1Id"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+          },
+          "href": "https://api.spotify.com/v1/albums/5fLOHW1UXr1cJrnXiU3FBt",
+          "id": "5fLOHW1UXr1cJrnXiU3FBt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736f705bef76c1d861c4d51d8c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026f705bef76c1d861c4d51d8c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516f705bef76c1d861c4d51d8c",
+              "width": 64
+            }
+          ],
+          "name": "The Album",
+          "release_date": "1977",
+          "release_date_precision": "year",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5fLOHW1UXr1cJrnXiU3FBt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 243933,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7702020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5BckPAYcKEJuYs1eV1BHHe",
+        "id": "5BckPAYcKEJuYs1eV1BHHe",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Take A Chance On Me",
+        "popularity": 71,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5BckPAYcKEJuYs1eV1BHHe"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+          },
+          "href": "https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR",
+          "id": "2cKZfaz7GiGtZEeQNj1RyR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ecaf9daf2c1d5ca89f7312",
+              "width": 64
+            }
+          ],
+          "name": "ABBA Gold",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:2cKZfaz7GiGtZEeQNj1RyR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 272506,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD8001090"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2245x0g1ft0HC7sf79zbYN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2245x0g1ft0HC7sf79zbYN",
+        "id": "2245x0g1ft0HC7sf79zbYN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Lay All Your Love On Me",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2245x0g1ft0HC7sf79zbYN"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+              },
+              "href": "https://api.spotify.com/v1/artists/6cbdCv0bmLwcxSVFM7tuyG",
+              "id": "6cbdCv0bmLwcxSVFM7tuyG",
+              "name": "John Mark Pantana",
+              "type": "artist",
+              "uri": "spotify:artist:6cbdCv0bmLwcxSVFM7tuyG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
+          },
+          "href": "https://api.spotify.com/v1/albums/1czXmSklT1QRyz24ZZes6e",
+          "id": "1czXmSklT1QRyz24ZZes6e",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736762f7cf2031bc3c043b8fed",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026762f7cf2031bc3c043b8fed",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516762f7cf2031bc3c043b8fed",
+              "width": 64
+            }
+          ],
+          "name": "Love Secrets (B-Sides)",
+          "release_date": "2020-07-10",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:1czXmSklT1QRyz24ZZes6e"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+            },
+            "href": "https://api.spotify.com/v1/artists/6cbdCv0bmLwcxSVFM7tuyG",
+            "id": "6cbdCv0bmLwcxSVFM7tuyG",
+            "name": "John Mark Pantana",
+            "type": "artist",
+            "uri": "spotify:artist:6cbdCv0bmLwcxSVFM7tuyG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Q1d40J0u4IWGg4oZNPBZ7",
+            "id": "2Q1d40J0u4IWGg4oZNPBZ7",
+            "name": "Jonathan Ogden",
+            "type": "artist",
+            "uri": "spotify:artist:2Q1d40J0u4IWGg4oZNPBZ7"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 285365,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZES82037693"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CRqPbUjMJqfJ4oaSTuxDl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4CRqPbUjMJqfJ4oaSTuxDl",
+        "id": "4CRqPbUjMJqfJ4oaSTuxDl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/b02a386fab490ec2dbe83f71921260efd4b75367?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4CRqPbUjMJqfJ4oaSTuxDl"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+          },
+          "href": "https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR",
+          "id": "2cKZfaz7GiGtZEeQNj1RyR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ecaf9daf2c1d5ca89f7312",
+              "width": 64
+            }
+          ],
+          "name": "ABBA Gold",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:2cKZfaz7GiGtZEeQNj1RyR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 231093,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ATDkfqprlNNe9mYWodgdc",
+        "id": "2ATDkfqprlNNe9mYWodgdc",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dancing Queen",
+        "popularity": 63,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ATDkfqprlNNe9mYWodgdc"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+              },
+              "href": "https://api.spotify.com/v1/artists/7zpvy5B9gb5KprNUzNCOEE",
+              "id": "7zpvy5B9gb5KprNUzNCOEE",
+              "name": "Miel San Marcos",
+              "type": "artist",
+              "uri": "spotify:artist:7zpvy5B9gb5KprNUzNCOEE"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+          },
+          "href": "https://api.spotify.com/v1/albums/7zyFQuz3nZmzpfRstmXZO0",
+          "id": "7zyFQuz3nZmzpfRstmXZO0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f86a9e7ab4792d1f0df7f664",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f86a9e7ab4792d1f0df7f664",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f86a9e7ab4792d1f0df7f664",
+              "width": 64
+            }
+          ],
+          "name": "Pentecostés (En Vivo)",
+          "release_date": "2017-12-08",
+          "release_date_precision": "day",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:7zyFQuz3nZmzpfRstmXZO0"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zpvy5B9gb5KprNUzNCOEE",
+            "id": "7zpvy5B9gb5KprNUzNCOEE",
+            "name": "Miel San Marcos",
+            "type": "artist",
+            "uri": "spotify:artist:7zpvy5B9gb5KprNUzNCOEE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+            },
+            "href": "https://api.spotify.com/v1/artists/2zF0KCQEt1O4Z9fWVUVi4T",
+            "id": "2zF0KCQEt1O4Z9fWVUVi4T",
+            "name": "Marcela Gandara",
+            "type": "artist",
+            "uri": "spotify:artist:2zF0KCQEt1O4Z9fWVUVi4T"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 291533,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US3DF1737375"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ICi7NpKmDPhe1PLEPC2t3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ICi7NpKmDPhe1PLEPC2t3",
+        "id": "6ICi7NpKmDPhe1PLEPC2t3",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba Padre (En Vivo)",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/52af862663f02d0dcc7329050a4763e774de5aca?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6ICi7NpKmDPhe1PLEPC2t3"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+          },
+          "href": "https://api.spotify.com/v1/albums/1V6a99EbTTIegOhWoPxYI9",
+          "id": "1V6a99EbTTIegOhWoPxYI9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0",
+              "width": 64
+            }
+          ],
+          "name": "Arrival",
+          "release_date": "1976",
+          "release_date_precision": "year",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1V6a99EbTTIegOhWoPxYI9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 252960,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7602070"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BM8yJ0PzBi2ZewpMTOxtx",
+        "id": "4BM8yJ0PzBi2ZewpMTOxtx",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fernando",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4BM8yJ0PzBi2ZewpMTOxtx"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+          },
+          "href": "https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR",
+          "id": "2cKZfaz7GiGtZEeQNj1RyR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ecaf9daf2c1d5ca89f7312",
+              "width": 64
+            }
+          ],
+          "name": "ABBA Gold",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:2cKZfaz7GiGtZEeQNj1RyR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 201360,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7501040"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pMmWfuL0FTGshYt7HVJ8P",
+        "id": "5pMmWfuL0FTGshYt7HVJ8P",
+        "is_local": false,
+        "is_playable": true,
+        "name": "SOS",
+        "popularity": 63,
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5pMmWfuL0FTGshYt7HVJ8P"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+          },
+          "href": "https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR",
+          "id": "2cKZfaz7GiGtZEeQNj1RyR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ecaf9daf2c1d5ca89f7312",
+              "width": 64
+            }
+          ],
+          "name": "ABBA Gold",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:2cKZfaz7GiGtZEeQNj1RyR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 186786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601060"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29FNeqjOV2kPWGS55qhtGB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29FNeqjOV2kPWGS55qhtGB",
+        "id": "29FNeqjOV2kPWGS55qhtGB",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Money, Money, Money",
+        "popularity": 61,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:29FNeqjOV2kPWGS55qhtGB"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/34lTW6LuORpuIiYfqsetuq"
+          },
+          "href": "https://api.spotify.com/v1/albums/34lTW6LuORpuIiYfqsetuq",
+          "id": "34lTW6LuORpuIiYfqsetuq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ec5de82891e542d4877c6d98",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ec5de82891e542d4877c6d98",
+              "width": 64
+            }
+          ],
+          "name": "The Essential Collection",
+          "release_date": "2012-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 39,
+          "type": "album",
+          "uri": "spotify:album:34lTW6LuORpuIiYfqsetuq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 233440,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rMfDvE2C8ne8UZj847rKM",
+        "id": "1rMfDvE2C8ne8UZj847rKM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dancing Queen",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1rMfDvE2C8ne8UZj847rKM"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+              },
+              "href": "https://api.spotify.com/v1/artists/7vKyyJZVFb16NTWrUV1fGp",
+              "id": "7vKyyJZVFb16NTWrUV1fGp",
+              "name": "Jonathan David Helser",
+              "type": "artist",
+              "uri": "spotify:artist:7vKyyJZVFb16NTWrUV1fGp"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+              },
+              "href": "https://api.spotify.com/v1/artists/0cng44S55pPu1nDrtFFy7r",
+              "id": "0cng44S55pPu1nDrtFFy7r",
+              "name": "Melissa Helser",
+              "type": "artist",
+              "uri": "spotify:artist:0cng44S55pPu1nDrtFFy7r"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+          },
+          "href": "https://api.spotify.com/v1/albums/1t5lSPlapJX2eHbvvsJNJd",
+          "id": "1t5lSPlapJX2eHbvvsJNJd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b6199acbeb5a6cbab2c35fff",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b6199acbeb5a6cbab2c35fff",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b6199acbeb5a6cbab2c35fff",
+              "width": 64
+            }
+          ],
+          "name": "Beautiful Surrender",
+          "release_date": "2016-09-30",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1t5lSPlapJX2eHbvvsJNJd"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vKyyJZVFb16NTWrUV1fGp",
+            "id": "7vKyyJZVFb16NTWrUV1fGp",
+            "name": "Jonathan David Helser",
+            "type": "artist",
+            "uri": "spotify:artist:7vKyyJZVFb16NTWrUV1fGp"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 330266,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWFE1590361"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5X3tiBU7iNVHGqll7iwfiq",
+        "id": "5X3tiBU7iNVHGqll7iwfiq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba (Arms Of A Father)",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/48ce0b68749e5bdf11d05cdf50044fa950d23514?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5X3tiBU7iNVHGqll7iwfiq"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq"
+              },
+              "href": "https://api.spotify.com/v1/artists/69LsPQEcmyMBXbdMKWT6Yq",
+              "id": "69LsPQEcmyMBXbdMKWT6Yq",
+              "name": "Eddie James",
+              "type": "artist",
+              "uri": "spotify:artist:69LsPQEcmyMBXbdMKWT6Yq"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5lxiItWSWZ4YNckJdQMPSf"
+          },
+          "href": "https://api.spotify.com/v1/albums/5lxiItWSWZ4YNckJdQMPSf",
+          "id": "5lxiItWSWZ4YNckJdQMPSf",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734913fcd863c88461b4b3fa25",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024913fcd863c88461b4b3fa25",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514913fcd863c88461b4b3fa25",
+              "width": 64
+            }
+          ],
+          "name": "Abba (Radio Version) (feat. Zeal & Jesse Cline)",
+          "release_date": "2019-11-22",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5lxiItWSWZ4YNckJdQMPSf"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq"
+            },
+            "href": "https://api.spotify.com/v1/artists/69LsPQEcmyMBXbdMKWT6Yq",
+            "id": "69LsPQEcmyMBXbdMKWT6Yq",
+            "name": "Eddie James",
+            "type": "artist",
+            "uri": "spotify:artist:69LsPQEcmyMBXbdMKWT6Yq"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4u0Wj7qjcHt7zHSWRGz5h5"
+            },
+            "href": "https://api.spotify.com/v1/artists/4u0Wj7qjcHt7zHSWRGz5h5",
+            "id": "4u0Wj7qjcHt7zHSWRGz5h5",
+            "name": "Zeal",
+            "type": "artist",
+            "uri": "spotify:artist:4u0Wj7qjcHt7zHSWRGz5h5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FyU9raIv5d9zjJjUgHOW4",
+            "id": "1FyU9raIv5d9zjJjUgHOW4",
+            "name": "Jesse Cline",
+            "type": "artist",
+            "uri": "spotify:artist:1FyU9raIv5d9zjJjUgHOW4"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241493,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZ4781911056"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5K9I5cQyx4hy05Q9PloOcm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5K9I5cQyx4hy05Q9PloOcm",
+        "id": "5K9I5cQyx4hy05Q9PloOcm",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba (Radio Version) (feat. Zeal & Jesse Cline)",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/4ecfc2028f43e89142d65773b096e7c9eb0e58be?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5K9I5cQyx4hy05Q9PloOcm"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+          },
+          "href": "https://api.spotify.com/v1/albums/1V6a99EbTTIegOhWoPxYI9",
+          "id": "1V6a99EbTTIegOhWoPxYI9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0",
+              "width": 64
+            }
+          ],
+          "name": "Arrival",
+          "release_date": "1976",
+          "release_date_precision": "year",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1V6a99EbTTIegOhWoPxYI9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 241920,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601050"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/798cuJeotvXP8UVa8GJPnD",
+        "id": "798cuJeotvXP8UVa8GJPnD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Knowing Me, Knowing You",
+        "popularity": 63,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:798cuJeotvXP8UVa8GJPnD"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/07DeYyQlbhUcySJCE0kI9p"
+              },
+              "href": "https://api.spotify.com/v1/artists/07DeYyQlbhUcySJCE0kI9p",
+              "id": "07DeYyQlbhUcySJCE0kI9p",
+              "name": "Sruli & Netanel",
+              "type": "artist",
+              "uri": "spotify:artist:07DeYyQlbhUcySJCE0kI9p"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/18mU7YUnghuYFOqFZ1Z19u"
+          },
+          "href": "https://api.spotify.com/v1/albums/18mU7YUnghuYFOqFZ1Z19u",
+          "id": "18mU7YUnghuYFOqFZ1Z19u",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27363db392748ea4f36f059a92e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0263db392748ea4f36f059a92e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485163db392748ea4f36f059a92e",
+              "width": 64
+            }
+          ],
+          "name": "Abba",
+          "release_date": "2019-09-03",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:18mU7YUnghuYFOqFZ1Z19u"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07DeYyQlbhUcySJCE0kI9p"
+            },
+            "href": "https://api.spotify.com/v1/artists/07DeYyQlbhUcySJCE0kI9p",
+            "id": "07DeYyQlbhUcySJCE0kI9p",
+            "name": "Sruli & Netanel",
+            "type": "artist",
+            "uri": "spotify:artist:07DeYyQlbhUcySJCE0kI9p"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 216931,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZHN31944858"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TdbCVtJ74INhpit6FtIJM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TdbCVtJ74INhpit6FtIJM",
+        "id": "2TdbCVtJ74INhpit6FtIJM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/8823af5c6b13df1532cfd00ad4deddc3a080d0c8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2TdbCVtJ74INhpit6FtIJM"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sh0bpSEIvnWiJxZKFhJ8S",
+              "id": "5sh0bpSEIvnWiJxZKFhJ8S",
+              "name": "Leon Timbo",
+              "type": "artist",
+              "uri": "spotify:artist:5sh0bpSEIvnWiJxZKFhJ8S"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4XybWUdxyzpcWHIUPhAZtv"
+              },
+              "href": "https://api.spotify.com/v1/artists/4XybWUdxyzpcWHIUPhAZtv",
+              "id": "4XybWUdxyzpcWHIUPhAZtv",
+              "name": "Northern Lights United",
+              "type": "artist",
+              "uri": "spotify:artist:4XybWUdxyzpcWHIUPhAZtv"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3Cy4QsKyVpwaiaeFky6TY0"
+          },
+          "href": "https://api.spotify.com/v1/albums/3Cy4QsKyVpwaiaeFky6TY0",
+          "id": "3Cy4QsKyVpwaiaeFky6TY0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731c94e7ddbc2e83328f8c6d34",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e021c94e7ddbc2e83328f8c6d34",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048511c94e7ddbc2e83328f8c6d34",
+              "width": 64
+            }
+          ],
+          "name": "Invitation To Worship Vol. 1",
+          "release_date": "2018-06-29",
+          "release_date_precision": "day",
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:3Cy4QsKyVpwaiaeFky6TY0"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sh0bpSEIvnWiJxZKFhJ8S",
+            "id": "5sh0bpSEIvnWiJxZKFhJ8S",
+            "name": "Leon Timbo",
+            "type": "artist",
+            "uri": "spotify:artist:5sh0bpSEIvnWiJxZKFhJ8S"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XybWUdxyzpcWHIUPhAZtv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XybWUdxyzpcWHIUPhAZtv",
+            "id": "4XybWUdxyzpcWHIUPhAZtv",
+            "name": "Northern Lights United",
+            "type": "artist",
+            "uri": "spotify:artist:4XybWUdxyzpcWHIUPhAZtv"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 460800,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USKO11880802"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HOzPIoK62HD5qIIkvwYBs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HOzPIoK62HD5qIIkvwYBs",
+        "id": "5HOzPIoK62HD5qIIkvwYBs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/2342bf8a0d303a04366e07fe46dcb758ac99ac14?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5HOzPIoK62HD5qIIkvwYBs"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+          },
+          "href": "https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR",
+          "id": "2cKZfaz7GiGtZEeQNj1RyR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ecaf9daf2c1d5ca89f7312",
+              "width": 64
+            }
+          ],
+          "name": "ABBA Gold",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:2cKZfaz7GiGtZEeQNj1RyR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 193560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7901060"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45EaIq9lKyoQxxTjFkiGbl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45EaIq9lKyoQxxTjFkiGbl",
+        "id": "45EaIq9lKyoQxxTjFkiGbl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Does Your Mother Know",
+        "popularity": 60,
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:45EaIq9lKyoQxxTjFkiGbl"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1qTF7MRkOV8LNFgxejBPD5"
+              },
+              "href": "https://api.spotify.com/v1/artists/1qTF7MRkOV8LNFgxejBPD5",
+              "id": "1qTF7MRkOV8LNFgxejBPD5",
+              "name": "Rick Pino",
+              "type": "artist",
+              "uri": "spotify:artist:1qTF7MRkOV8LNFgxejBPD5"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4sTw2S6kiujvMjz7KvXk2h"
+          },
+          "href": "https://api.spotify.com/v1/albums/4sTw2S6kiujvMjz7KvXk2h",
+          "id": "4sTw2S6kiujvMjz7KvXk2h",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734743d30667acee4ac905ec55",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024743d30667acee4ac905ec55",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514743d30667acee4ac905ec55",
+              "width": 64
+            }
+          ],
+          "name": "Leaning on My Beloved",
+          "release_date": "2013-05-28",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:4sTw2S6kiujvMjz7KvXk2h"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qTF7MRkOV8LNFgxejBPD5"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qTF7MRkOV8LNFgxejBPD5",
+            "id": "1qTF7MRkOV8LNFgxejBPD5",
+            "name": "Rick Pino",
+            "type": "artist",
+            "uri": "spotify:artist:1qTF7MRkOV8LNFgxejBPD5"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 350895,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCABN1350254"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5NxCloY9cfC3XzWnwZnQXb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5NxCloY9cfC3XzWnwZnQXb",
+        "id": "5NxCloY9cfC3XzWnwZnQXb",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Abba",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/fc1f92df653049d3b331b8563063b23872963aaa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5NxCloY9cfC3XzWnwZnQXb"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=abba&type=track&market=US&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 45054
+  }
+}
