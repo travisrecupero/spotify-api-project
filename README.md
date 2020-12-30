@@ -11,6 +11,10 @@ Currently I am working on:
   
 _____________________________________________________________________________________________________________________________________________________
 
+Note
+  The folders containing `...JSONSamples` are there for looking at the output of generated JSONS. This will help us with indexing dictionaries. 
+
+
 To use this, create a file named `secrets.py` which includes:
   `spotify_token = ""`
   `spotify_user_id = ""`
