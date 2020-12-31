@@ -56,7 +56,28 @@ class SpotifyFunctionality:
         #playlist id
         return  response_json["id"]
 
-
+"""
+def get_albums(sp):
+    saved_albums = list()
+    limit = 20
+    offset = 0
+    results = sp.current_user_saved_tracks(limit, offset)
+    counter = results['total']
+    
+    # loop until no more tracks
+    while True:
+        for item in results['items']:
+            counter = counter - 1
+            album = item['album']['track']
+            # print("%32.32s %s" % (track['artists'][0]['name'], track['name']))
+            saved_albums.append(album)
+        if counter == 0:
+                break
+        offset += 20
+        results = sp.current_user_saved_tracks(limit, offset)
+    
+    return saved_albums
+"""
 
 #def filter_by_year(self, year):
     #song_uri_list = get_saved_songs()
@@ -64,7 +85,7 @@ class SpotifyFunctionality:
         #if song_uri_list[i]
 
 # search for song given song_name and artist, returns song uri
-def get_spotify_uri(self, song_name, artist):
+def get_song_uri(self, song_name, artist):
     query = "https://api.spotify.com/v1/search?query=track%3A{}+artist%3A{}&type=track&offset=0&limit=20".format(
         song_name,
         artist
@@ -144,10 +165,14 @@ def main():
     # APPLICATION CODE BELOW
 
     all_saved_tracks_uris = list()
-
+    all_saved_tracks_albums = list()
 
     all_saved_tracks_uris = get_all_saved_tracks_uris(sp)
-    #print(all_saved_tracks_uris)
+    
+    #all_saved_tracks_albums = get_albums(sp)
+    #print(all_saved_tracks_albums)
+    #album_one = sp.album(all_saved_tracks_uris[0])
+    #print(album_one)
 
 
 if __name__ == '__main__':

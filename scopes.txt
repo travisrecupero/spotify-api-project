@@ -1,0 +1,3 @@
+The following are scopes needed when getting access token from Spotify API:
+    
+    user-library-read
