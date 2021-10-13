@@ -17,44 +17,44 @@ from secrets import client_secret
 
 from exceptions import ResponseException
 
-class SpotifyFunctionality:
-
-    def __init__(self):
-        self.user_id = spotify_user_id
-        self.spotify_token = spotify_token
 
 
+def __init__(self):
+    self.user_id = spotify_user_id
+    self.spotify_token = spotify_token
 
-    #create playlist and return that playlists id
-    def create_playlist(self):
-        request_body = json.dumps({
-            "name": "Decade",
-            "description": "Playlist of specified decade",
-            "public": True
-        })
 
-        query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
 
-        # the query will tell us where we want to make the post request
-        # the request were doing is "create playlist"
-        # this request has endpoints which we reference using requests.post()
-        # Note: the endpoints are the parameters for post (some parameters optional)
-        response = requests.post(
-            query,
-            data = request_body,
-            headers = {
-               "Content-Type": "application/json",
-               "Authorization": "Bearer {}".format(spotify_token) 
-            }
-        )
+#create playlist and return that playlists id
+def create_playlist(self):
+    request_body = json.dumps({
+        "name": "Decade",
+        "description": "Playlist of specified decade",
+        "public": True
+    })
 
-        response_json = response.json()
-       
-        #response_json.dumps(x, indent=4)
-        #print(response_json)
+    query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
 
-        #playlist id
-        return  response_json["id"]
+    # the query will tell us where we want to make the post request
+    # the request were doing is "create playlist"
+    # this request has endpoints which we reference using requests.post()
+    # Note: the endpoints are the parameters for post (some parameters optional)
+    response = requests.post(
+        query,
+        data = request_body,
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer {}".format(spotify_token) 
+        }
+    )
+
+    response_json = response.json()
+    
+    #response_json.dumps(x, indent=4)
+    #print(response_json)
+
+    #playlist id
+    return  response_json["id"]
 
 """
 def get_albums(sp):
@@ -142,38 +142,28 @@ def main():
     # set scope for functions to get access to specific API endpoints
     scope = 'user-library-read'
 
-
     # set auth token 
     # RESET EVERY SO OFTEN: 
     # https://developer.spotify.com/console/get-current-user-saved-tracks/?market=&limit=&offset=
     token = spotify_token
 
-
     # set auth_manager and client_credentials_manager
     # these are passed into Spotify() from spotipy library
     client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
-    
     auth_manager = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='http://localhost:8888/callback', scope=scope)
-
 
     # initialize spotipy to work with client
     sp = spotipy.Spotify(auth=token, client_credentials_manager=client_credentials_manager, 
         auth_manager=auth_manager)
 
-    # note that some variables may have arbitrary values (ie. limit=20)
-    # this is because client modules (methods) have similar parameters w/ different vals 
-    # APPLICATION CODE BELOW
 
     all_saved_tracks_uris = list()
     all_saved_tracks_albums = list()
 
-    all_saved_tracks_uris = get_all_saved_tracks_uris(sp)
+    #all_saved_tracks_uris = get_all_saved_tracks_uris(sp)
     
-    #all_saved_tracks_albums = get_albums(sp)
-    #print(all_saved_tracks_albums)
-    #album_one = sp.album(all_saved_tracks_uris[0])
-    #print(album_one)
-
+    print(sp.current_user_playing_track())
+    
 
 if __name__ == '__main__':
     main()
