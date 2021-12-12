@@ -7,7 +7,7 @@ Currently I am working on:
   - Allowing a user to generate a playlist given a specfic decade based off of their currently saved songs
   
  Future Improvements:
-  - Create a front-end interface for accecibility purposes
+  - Create a front-end interface for accessibility purposes
   
 _____________________________________________________________________________________________________________________________________________________
 
